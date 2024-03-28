@@ -1,5 +1,8 @@
 # zuoye
 安卓作业
+
+![屏幕截图 2024-03-28 174032](https://github.com/zjf53/zuoye/assets/161800950/49854547-02b2-4b06-b6dd-87a0986a1f6d)
+
 package com.example.myapplication
 
 import android.os.Bundle
@@ -101,7 +104,4 @@ fun GreetingPreview() {
         UserCardList()
     }
 }
-
-
-![屏幕截图 2024-03-28 174032](https://github.com/zjf53/zuoye/assets/161800950/49854547-02b2-4b06-b6dd-87a0986a1f6d)
 
